@@ -1,4 +1,4 @@
-**# Symbol Table Project
+# Symbol Table Project
   The Symbol Table Project is an implementation of a symbol table data structure in C++. A symbol table is a fundamental data structure used in compilers and interpreters to store and manage information about variables, functions, and other entities in a program. This implementation uses a linked list to store key-value pairs and provides various operations for managing and querying the table.
 
 ## Features
